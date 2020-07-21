@@ -6,7 +6,9 @@
 
 &nbsp;
 
-<img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/wynioux/wynioux/master/resources/header.jpg"/>
+<p align="center">
+    <img width="80%" alt="Github" src="https://raw.githubusercontent.com/wynioux/wynioux/master/resources/header.jpg"/>
+</p>
 
 &nbsp;
 
@@ -16,20 +18,24 @@
 
 - I’m currently working at **Vega Yazılım Hatay** which we developing accounting and stocking solutions.
 
+&nbsp;
+
 **Languages and Tools:**
 
-<p>
-    <img width="15%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg">
+<p align="center">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg">
 </p>
 
-<p>
-    <img width="60%" align="center" alt="Bahadır's github stats" src="https://github-readme-stats.vercel.app/api?username=wynioux&show_icons=true"/>
+&nbsp;
+
+<p align="center">
+    <img width="60%" alt="Bahadır's github stats" src="https://github-readme-stats.vercel.app/api?username=wynioux&show_icons=true"/>
 </p>
