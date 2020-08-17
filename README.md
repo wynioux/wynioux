@@ -16,8 +16,6 @@
 
 - I'm currently studying software engineering at [**Iskenderun Technical University**](https://iste.edu.tr/en).
 
-- I’m currently working at **Vega Yazılım Hatay** which we developing accounting and stocking solutions.
-
 &nbsp;
 
 **Languages and Tools:**
